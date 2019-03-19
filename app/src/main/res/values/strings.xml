@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">OrientationExample</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_behind_orientation">BehindOrientationActivity</string>
-    <string name="title_activity_main2">Main2Activity</string>
-    <string name="title_activity_not_rotate">NotRotateActivity</string>
-</resources>
